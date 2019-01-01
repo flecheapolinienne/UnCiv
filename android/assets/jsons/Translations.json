@@ -5378,6 +5378,7 @@
 	"+3 culture in capital and increased rate of border expansion":{
 		Italian: "+3 Cultura nella capitale, e maggior tasso di espansione dei confini"
 		Russian:"+3 культуры в столице и увеличивается скорость расширения границ"
+		Francais:"+3 culture dans la capitale et un taux d'expansion des frontières rehaussé"
 		Spanish:"+3 cultura en la capital e incremento del ritmo de expansión de fronteras"
         Simplified_Chinese:"+3 首都文化和边境扩张速度"
         Portuguese:"+3 cultura na capital e taxa de expansão de fronteiras"
@@ -5385,6 +5386,7 @@
 	"Aristocracy":{
 		Italian:"Aristocrazia"
 		Russian:"Аристократия"
+		Francais:"Aristocratie"
 		Spanish:"Aristocracia"
         Simplified_Chinese:"贵族制"
         Portuguese:"Aristocracia"
@@ -5392,6 +5394,7 @@
 	"+15% production when constructing wonders, +1 happiness for every 10 citizens in a city":{
 		Italian: "+15% produzione quando costruisci una Meraviglia, +1 Felicità ogni 10 cittadini in una città"
 		Russian:"+15% производства при создании чудес, +1 счастье за каждые 10 жителей в городе"
+		Francais:"+15% de production lors de la construction de merveilles, +1 de bonheur pour chaque 10 citoyens dans une cité"
 		Spanish:"+15% producción al construir maravillas, +1 felicidad cada 10 habitantes in una ciudad"
         Simplified_Chinese:"当建造奇迹 +15% 的生产, 在一个城市每10个市民 +1 幸福"
         Portuguese:"+15 de produção ao construir maravilhas, +1 felicidade a cada 10 em uma cidade"
@@ -5399,6 +5402,7 @@
 	"Legalism":{
 		Italian:"Legalismo"
 		Russian:"Легализм"
+		Francais:"Légalisme"
 		Spanish:"Legalismo"
         Simplified_Chinese:"守法"
         Portuguese:"Legalismo"
@@ -5406,6 +5410,7 @@
 	"Free culture building in your first 4 cities":{
 		Italian:"Un edificio culturale gratuito nelle prime 4 città"
 		Russian:"Бесплатное культурное здание в первых 4 городах"
+		Francais:"Un bâtiment culturel gratuit dans votre 4 premières cités"
 		Spanish:"Edificio de cultura gratis en las primeras 4 ciudades"
         Simplified_Chinese:"前4个城市给予免费的文化设施"
         Portuguese:"Edificio de cultura grátis em suas primeiras 4 cidades (monumento)"
@@ -5413,6 +5418,7 @@
 	"Oligarchy":{
 		Italian:"Oligarchia"
 		Russian:"Олигархия"
+		Francais:"Oligarchie"
 		Spanish:"Oligarquía"
         Simplified_Chinese:"寡头政治"
         Portuguese:"Oligarquia"
@@ -5420,6 +5426,7 @@
 	"Units in cities cost no maintainance":{
 		Italian:"Nessuna manutenzione per le unità nelle città"
 		Russian:"Юниты в городах содержаться бесплатно"
+		Francais:"Le unités dans les cités n'ont aucun coût d'entretien"
 		Spanish:"Unidades en las ciudades no cuestan mantenimiento"
         Simplified_Chinese:"城市里的单位不需要维护费"
         Portuguese:"Unidades em cidades não custam manutenção"
@@ -5427,6 +5434,7 @@
 	"Landed Elite":{
 		Italian:"Nobiltà terriera"
 		Russian:"Землевладельческая Элита"
+		Francais:"Élite terrienne"
 		Spanish:"Élite terrateniente"
         Simplified_Chinese:"精英主义"
         Portuguese:"Elite aterrisada"
@@ -5434,6 +5442,7 @@
 	"+10% food growth and +2 food in capital":{
 		Italian:"+10% crescita e +2 cibo nella capitale"
 		Russian:"+10% прироста еды и +2 еды в столице"
+		Francais:"+10% de croissance de la nourriture et +2 nourriture dans la capitale"
 		Spanish:"+10% crecimiento de comida y +2 comida en la capital"
         Simplified_Chinese:"在首都 粮食增长 +10%, 粮食 +2 "
         Portuguese:"+10% adicionado ao crescimente de comida e +2 comida na capital"
@@ -5441,6 +5450,7 @@
 	"Monarchy":{
 		Italian:"Monarchia"
 		Russian:"Монархия"
+		Francais:"Monarchie"
 		Spanish:"Monarquía"
         Simplified_Chinese:"君主制"
         Portuguese:"Monarquia"
@@ -5448,6 +5458,7 @@
 	"+1 gold and -1 unhappiness for every 2 citizens in capital":{
 		Italian:"+1 oro e -1 Infelicità ogni 2 cittadini nella capitale"
 		Russian:"+1 золто и -1 недовольство за каждых двух жителей в столице"
+		Francais:"+1 d'or et -1 de malheur pour chaque 2 citoyens dans la capitale"
 		Spanish:"+1 oro y -1 infelicidad cada 2 habitantes en la capital"
         Simplified_Chinese:"在首都，每两个公民拥有1金钱和-1不幸福度"
         Portuguese:"+1 ouro e -1 de infelicidade para cada 2 habitantes na capital"
@@ -5455,6 +5466,7 @@
 	"Tradition Complete":{
 		Italian:"Tradizione Completa"
 		Russian:"Традиция Завершена"
+		Francais:"Tradition Complétée"
 		Spanish:"Tradición Completa"
         Simplified_Chinese:"完整的传统主义"
         Portuguese:"Tradição Completa"
@@ -5462,6 +5474,7 @@
 	"+15% growth and +2 food in all cities":{
 		Italian:"+15% crescita e +2 cibo in tutte le città"
 		Russian:"+15% роста и +2 еды во всех городах"
+		Francais:"+15% de croissance et +2 de nourriture dans toutes les cités"
 		Spanish:"+15% crecimiento y +2 comida en todas las ciudades"
         Simplified_Chinese:"所有城市增长 +15%, 食品 +2"
         Portuguese:"+15% crescimento e +2 de comida na capital"

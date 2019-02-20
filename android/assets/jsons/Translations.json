@@ -6783,7 +6783,7 @@
         Simplified_Chinese:"将未来社会政策的文化成本降低10%"
 		Portuguese:"Reduz o custo de futuras políticas em 10%"
 		German:"Reduziere Kulturkosten von zukünftigen Grundsätzen um 10%"
-		French:"Réduit le cout en culture des futures doctrines de 10%"
+		French:"Réduit le coût en culture des futures doctrines de 10%"
 	}
 	
 	// Commerce branch
@@ -6815,7 +6815,7 @@
         	Simplified_Chinese:"商会"
 		Portuguese:"Sindicatos"
 		German:"Handelsunion"
-		French:"Unions commerciales"
+		French:"Syndicats"
 	}
 	"Maintainance on roads & railroads reduced by 33%, +2 gold from all trade routes":{
 		Italian:"-33% manutenzioni su strade e ferrovie, +2 oro per ogni rotta commerciale"
@@ -6825,7 +6825,7 @@
         	Simplified_Chinese:"公路和铁路的维修费降低33%，所有贸易路线的金钱增加2"
 		Portuguese:"Manutenção reduzida em estradas e linhas férreas em 33%, +2 ouro de todas as rotas de comércio"
 		German:"Instandhaltung von Straßen und Schienen um 33% reduziert; +2 Gold für alle Handelsrouten"
-		French:"Le coût des routes et des chemins de fer est réduit de 33%, +2 or pour chaques routes commerciales"
+		French:"Le coût d'entretien des routes et des chemins de fer est réduit de 33%, +2 or pour chaque route commerciale"
 	}
 	"Mercantilism":{
 		Italian:"Mercantilismo"
@@ -6845,7 +6845,7 @@
         	Simplified_Chinese:"-25%花费用于在城市购买物品"
 		Portuguese:"-25% a compra de itens em cidades"
 		German:"-25% Gold Kosten beim Kauf von Objekten in Städten"
-		French:"-25% de coût en or d'achat de batiments/unités dans les villes"
+		French:"-25% du coût en or lors d'achat de batiments/unités dans les villes"
 	}
 	"Entrepreneurship":{
 		Italian:"Imprenditorialità"
@@ -6865,7 +6865,7 @@
         Simplified_Chinese:"大商人从每一家造币厂、市场、银行和证券交易所获得 25% 的收益，并 +1 科学。"
 		Portuguese:"Grander mercadores são obtidos 25% mais rápido, +1 ciência de cada de Casa da Moeda, banco e bolsa de valores"
 		German:"Große Händler erscheinen 25% schneller; +1 Wissenschaft von jeder Prägerei, Bank, Markt und Börse."
-		French:"Apparition des marchands illustres 25% plus rapide, +1 science pour chaque Hôtel de la monnaie, Marché, Banque et Douane"
+		French:"Apparition des marchands illustres 25% plus rapide, +1 de science pour chaque Hôtel de la monnaie, Marché, Banque et Douane"
 	}
 	"Patronage":{
 		Italian:"Mecenatismo"
@@ -6875,7 +6875,7 @@
         Simplified_Chinese:"赞助"
 		Portuguese:"Patrocínio" // not sure so double check yourself if deemed nescessary
 		German:"Mäzenatentum" //according to https://en.wikipedia.org/wiki/Patronage --> click on German language post
-		French:"Patronat"
+		French:"Mécénat"
 	}
 	"Cost of purchasing culture buildings reduced by 50%":{
 		Italian:"-50% costi di acquistare strutture culturali"
@@ -6885,7 +6885,7 @@
         Simplified_Chinese:"购买文化建筑的成本降低了50%"
 		Portuguese:"Custo de comprar edifícios reduzido em 50%"
 		German:"Kosten für den Kauf von Kulturgebäuden ist um 50% reduziert"
-		French:"Coût d'achat des batiments culturelles réduit de 50%"
+		French:"Coût d'achat des bâtiments culturels réduit de 50%"
 	}
 	"Protectionism":{
 		Italian:"Protezionismo"
@@ -6905,7 +6905,7 @@
         Simplified_Chinese:"+1 幸福度来自每一种奢侈资源"
 		Portuguese:"+1 Felicidade por cade recurso de luxo"
 		German:"+1 Zufriedenheit für jede Luxusresource"
-		French:"+1 Bonheur pour chaque ressource de luxe"
+		French:"+1 de Bonheur pour chaque ressource de luxe"
 	}
 	"Commerce Complete":{
 		Italian:"Commercio Completo"
@@ -6915,7 +6915,7 @@
         Simplified_Chinese:"完整的商业主义"
 		Portuguese:"Comércio Completo"
 		German:"Kommerz vollständig"
-		French:"Commerce complet"
+		French:"Commerce completé"
 	}
 	"+1 gold from each specialist":{
 		Italian:"+1 Oro per ogni specialista"
@@ -6925,7 +6925,7 @@
         Simplified_Chinese:"每个专家 +1 金钱"
 		Portuguese:"+1 ouro por cada especialista"
 		German:"+1 Gold für jeden Spezialisten"
-		French:"+1 or pour chaque spécialiste"
+		French:"+1 d'or pour chaque spécialiste"
 	}
 	
 	//Rationalism branch
@@ -6967,7 +6967,7 @@
         Simplified_Chinese:"每个专家的科学 +2"
 		Portuguese:"+2 ciência de cada especialista"
 		German:"+2 Wissenschaft durch jeden Spezialisten"
-		French:"Spécialiste : science +2."
+		French:"+2 de science pour chaque spécialiste"
 	}
 	"Humanism":{
 		Italian:"Umanesimo"
@@ -7007,7 +7007,7 @@
         	Simplified_Chinese:"+1个交易站的科学，+17%的大学的科学"
 		Portuguese:"+1 ciência por cada posto mercantil, +17% ciência de todas as universidades" 
 		German:"+1 Wissenschaft durch jeden Handelsposten; +17% Wissenschaft von Universitäten"
-		French:"Comptoirs commerciaux : science +1 et science +17% grâce aux universités"
+		French:"Comptoirs commerciaux : science +1, science +17% grâce aux universités"
 	}
 	"Sovereignty":{
 		Italian:"Sovranità"
@@ -7067,7 +7067,7 @@
         	Simplified_Chinese:"所有科学建筑+1金钱"
 		Portuguese:"+1 ouro de todos os edifícios de ciência"
 		German:"+1 Gold von allen Wissenschaftsgebäuden"
-		French:"Les batiments scientifiques rapportent +1 or"
+		French:"Les bâtiments scientifiques rapportent +1 d'or"
 	}
 	
 	// Freedom branch
@@ -7109,7 +7109,7 @@
         	Simplified_Chinese:"每个奇迹 +2 文化"
 		Portuguese:"+2 cultura por cada Maravilha"
 		German:"+2 Kultur durch jedes Wunder"
-		French:"+2 culture pour chaque merveilles"
+		French:"+2 de culture pour chaque merveille"
 	}
 	"Universal Suffrage":{
 		Italian:"Suffragio Universale"
@@ -7129,7 +7129,7 @@
         	Simplified_Chinese:"每5个人口+1个生产力"
 		Portuguese:"+1 produção por cada 5 habitantes"
 		German:"+1 Produktion für jeden 5. Einwohner"
-		French:"+1 production par tranches de 5 habitants"
+		French:"+1 de production par tranche de 5 habitants"
 	}
 	"Civil Society":{
 		Italian:"Società Civile"
@@ -7149,7 +7149,7 @@
         	Simplified_Chinese:"-50%的食物由专家消耗"
 		Portuguese:"-50% gasto de comida por especialistas"
 		German:"-50% Nahrungsverbrauch durch Spezialisten"
-		French:"-50% consommation de nourriture des spécialistes"
+		French:"-50% consommation de nourriture par les spécialistes"
 	}
 	"Free Speech":{
 		Italian:"Libertà di parola"
@@ -7159,7 +7159,7 @@
         	Simplified_Chinese:"言论自由"
 		Portuguese:"Liberdade de Expressão"
 		German:"Meinungsfreiheit"
-		French:"Liberté de parler"
+		French:"Liberté d'expression"
 	}
 	"+1 culture for every 2 citizens":{
 		Italian:"+1 Cultura ogni 2 Cittadini"
@@ -7169,7 +7169,7 @@
         	Simplified_Chinese:"+1 文化 每 2 公民"
 		Portuguese:"+1 cultura para cada 2 habitantes"
 		German:"+1 Kultur für jeden 2. Einwohner"
-		French:"+1 culture tous les 2 citoyens"
+		French:"+1 culture pour chaque 2 citoyens"
 	}
 	"Democracy":{
 		Italian:"Democrazia"
@@ -7199,7 +7199,7 @@
         	Simplified_Chinese:"完整的自由主义"
 		Portuguese:"Liberdade Completa"
 		German:"Freiheit vollständig"
-		French:"Liberté complète"
+		French:"Liberté complétée"
 	}
 	"Tile yield from great improvement +100%, golden ages increase by 50%":{
 		Italian:"Doppia resa dai miglioramenti, +50% durata da Età dell'Oro"
@@ -7251,7 +7251,7 @@
         	Portuguese:"+25% dano para unidades militares feridas"
 		Russian:"раненые военные юниты наносят на 25% урона больше"
 		German:"Verwundete Militäreinheiten haben +25% Schaden"
-		French:"Les unités militaires blessés infligent +25% dégats"
+		French:"Les unités militaires blessées infligent +25% dégâts"
 	}
 	"Militarism":{
 		Spanish:"Militarismo"
@@ -7271,7 +7271,7 @@
         	Portuguese:"-33% custo de comprar unidades"
 		Russian:"Стоимость покупки снижается на 33%"
 		German:"-33% Goldkosten für das Kaufen von Einheiten"
-		French:"Le coût d'achat des unités militaires est réduit de 33%"
+		French:"Le coût d'achat des unités est réduit de 33%"
 	}
 	"Facism":{
 		Spanish:"Facismo"
@@ -7280,7 +7280,7 @@
         	Simplified_Chinese:"法西斯"
 		Portuguese:"Fascismo"
 		German:"Faschismus"
-		French:"fascisme"
+		French:"Fascisme"
 	}
 	"Quantity of strategic resources produced by the empire increased by 100%":{
 		Spanish:"El imperio produce un +100% de recursos estrategicos"
@@ -7290,7 +7290,7 @@
         	Portuguese:"Quantidade de recursos estratégicos produzidos pelo império incrementado em 100%"
 		Russian:"количество стратегических ресурсов обрабатываемых империей, удваивается"
 		German:"Menge an strategische Resourcen ist um 100% erhöht."
-		French:"La quantité de ressources stratégiques est doublé"
+		French:"La quantité de ressources stratégiques est doublée"
 	}
 	"Police State":{
 		Spanish:"Estado de policias"
@@ -7300,7 +7300,7 @@
         	Portuguese:"Estado de Polícia"
 		Russian:"полицейский участок"
 		German:"Polizeistaat"
-		French:"Etat policier"
+		French:"État policier"
 	}
 	"Captured cities retain their previous borders":{
 		Spanish:"Las ciudades capturadas retienen sus fronteras"
@@ -7310,7 +7310,7 @@
         	Portuguese:"Cidades capturadas retem suas antigas frontieras"
 		Russian:"Захваченные города сохраняют свои прежние границы"
 		German:"Eingenommene Städte behalten ihre vorherigen Grenzen"
-		French:"Les villes capturés ne perdent plus leurs territoires"
+		French:"Les villes capturées ne perdent plus leurs territoires précédents"
 	}
 	"Total War":{
 		Spanish:"Guerra Total"
@@ -7341,27 +7341,27 @@
 	"Cultural victory":{
 		Italian:"Vittoria culturale"
 		German:"Kultursieg"
-		French:"Victoire Culturelle"
+		French:"Victoire culturelle"
 	}
 	"Conquest victory":{
 		Italian:"Vittoria per dominazione"
 		German:"Dominanzsieg"
-		French:"Victoire militaire"
+		French:"Victoire par conquête"
 	}
 	"Complete all the spaceship parts\n to win!":{
 		Italian:"Completa tutte le parti \n dell'astronave per vincere!"
 		German:"Um zu gewinnen vervollständigen\nSie alle Raumschiffteile!"
-		French:"Construisez toutes les parties du \n vaisseau spatial pour gagné !"
+		French:"Construisez toutes les parties du \n vaisseau spatial pour gagner!"
 	}
 	"Complete 4 policy branches\n to win!":{
 		Italian:"Completa quattro rami \n della politica per vincere!"
 		German:"Um zu gewinnen vervollständigen\nSie 4 Grundsatzzweige!"
-		French:"Completer 4 Doctrines pour gagner !"
+		French:"Complétez 4 Doctrines pour gagner !"
 	}
 	"Destroy all enemies\n to win!":{
 		Italian:"Distruggi tutti gli avversari \n per vincere!"
 		German:"Um zu gewinnen besiegen Sie alle Gegner!"
-		French:"Eliminer tous vos adversaires pour gagner !"
+		French:"Eliminez tous vos adversaires pour gagner !"
 	}
 	"You have won a scientific victory!":{
 		Italian:"Hai ottenuto una vittoria scientifica!"
@@ -7376,7 +7376,7 @@
 	"You have won a conquest victory!":{
 		Italian:"Hai ottenuto una vittoria per dominazione!"
 		German:"Sie haben den Dominanzsieg errungen!"
-		French:"Vous avez fait une victoire militaire !"
+		French:"Vous avez fait une victoire par conquête !"
 	}
 	"One more turn...!":{
 		Italian:"Solo un altro turno..."
@@ -7386,12 +7386,12 @@
 	"Built Apollo Program":{
 		Italian:"Programma Apollo costruito"
 		German:"Vollendete das Apollo-Programm" //not sure about the context here
-		French:"Construiser le programme Apollo" //same, it could be "construire"
+		French:"A construit le programme Apollo" 
 	}
 	"Destroy [civName]":{
 		Italian:"Distruggi [civName]"
 		German:"Zerstöre [civName]"
-		French:"Détruiser [civName]"
+		French:"Détruisez [civName]"
 	}	
 	
 	// Unit Promotions
